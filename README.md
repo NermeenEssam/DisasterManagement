@@ -1,3 +1,4 @@
 # DisasterManagement
 Repository for the project of disaster management course by the GIS track, ITI intake 37.
-Team Memeber Nouran hossam
+Team Member Nouran hossam
+Khaled
